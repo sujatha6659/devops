@@ -7,6 +7,8 @@ import java.util.Scanner;
         System.out.println("enter your details:");
         System.out.println("email");
         System.out.println("enter phone no:");
-        System.out.println("your email id is: ");
+        System.out.println("your email id is: ")
+         System.out.println("hello ");
+     
     }
 }
